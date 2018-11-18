@@ -1,0 +1,23 @@
+{
+  "name": "string-kit",
+  "version": "1.0.0",
+  "description": "Some useful methods of string. ",
+  "main": "./lib/index.js",
+  "author": "fuchuan",
+  
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc",
+    "publish": "tsc && npm publish"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.3.9",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.6"
+  },
+  "jest": { 
+    "preset": "ts-jest"
+  }
+}
