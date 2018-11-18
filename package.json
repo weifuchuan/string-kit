@@ -1,11 +1,11 @@
 {
-  "name": "string-kit",
+  "name": "string-kits",
   "version": "1.0.0",
   "description": "Some useful methods of string. ",
   "main": "./lib/index.js",
   "author": "fuchuan",
   "repository": {
-    "url": "https://github.com/weifuchuan/string-kit",
+    "url": "https://github.com/weifuchuan/string-kits",
     "type": "github"
   },
   "license": "MIT",
